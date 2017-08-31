@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dagger2Sample2</string>
+
+    <string name="hello_anonymous">Hello, Anonymous!</string>
+    <string name="hello_user">Hello, %1$s! You are logged in %2$s</string>
+</resources>
